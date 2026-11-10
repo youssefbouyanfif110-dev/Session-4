@@ -34,4 +34,3 @@
 - Un article peut appartenir à plusieurs catégories.
 - Un article peut posséder plusieurs tags.
 - Un tag peut être associé à plusieurs articles.
-
